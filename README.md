@@ -5,3 +5,5 @@ Wavetable synthesis,
 Allow multiple control assignments and chaining controls,
 Allow MIDI input.
 
+Dependencies:
+numpy, soundfile, sounddevice, tkdial
